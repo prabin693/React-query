@@ -1,0 +1,37 @@
+{ 
+    "superheroes":[
+        {
+            "id": 1,
+            "name": "Batman",
+            "publisher": "DC Comics",
+            "alter_ego": "Bruce Wayne"
+  },
+        {
+            "id": 2,
+            "name": "Superman",
+            "publisher": "DC Comics",
+            "alter_ego": "Kal-El"
+
+        },
+        {
+            "id": 3,
+            "name": "Flash",
+            "publisher": "DC Comics",
+            "alter_ego": "Jay Garrick"
+        }
+    ],
+    "friends":[
+        {
+            "id":"1",
+            "name":"Peter Parker"
+        },
+        {
+            "id":"2",
+            "name":"Clark Kent"
+        },
+        {
+            "id":"3",
+            "name":"Bruce Wayne"
+        }
+    ]
+}
